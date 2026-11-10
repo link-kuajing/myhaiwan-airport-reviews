@@ -33,6 +33,16 @@
 - [paolu.md](paolu.md) — 失联/风险观察名单
 - [tools.md](tools.md) — 客户端工具清单
 - `data/` — 结构化数据（JSON）
+- `posts/` — 文章镜像全文（3 篇）
+- `reviews/` — 文章镜像全文（2 篇）
+
+## 最新文章
+
+- [2026年山水云机场测评：同一份流量四种卖法，单价差14倍](https://myhaiwan.com/reviews/山水云/) — 2026-11-10
+- [2026年百变小樱机场测评：官方客户端一点就连，年付单价却比月付贵两成](https://myhaiwan.com/reviews/百变小樱/) — 2026-11-09
+- [2025-2026翻墙机场跑路汇总（持续更新）](https://myhaiwan.com/posts/2026-airport-paolu/) — 2026-11-08
+- [2026年翻墙机场推荐与避坑：折合月价、套餐对比与风险提示](https://myhaiwan.com/posts/2026-airport-recommendation/) — 2026-11-08
+- [瑶瑶领先机场2026套餐整理：9.9元384G的定价结构、年付折算与购买建议](https://myhaiwan.com/posts/2026-yaoyaolingxian-plans/) — 2026-11-08
 
 ---
 *数据每日 05:10 自动同步自主站公开接口快照，仅供参考；购买前请以服务商官网为准。*
