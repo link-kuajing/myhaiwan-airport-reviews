@@ -1,6 +1,6 @@
 # 机场价格总表（完整版）
 
-> 数据快照：2026-11-10 10:06 · 共 19 家 · 完整详情与最新状态见主站：[https://myhaiwan.com/reviews](https://myhaiwan.com/reviews/)
+> 数据快照：2026-11-10 10:13 · 共 19 家 · 完整详情与最新状态见主站：[https://myhaiwan.com/reviews](https://myhaiwan.com/reviews/)
 
 | 机场 | 状态 | 最低价区间 | 标称速度 | 流媒体 |
 |---|---|---|---|---|
