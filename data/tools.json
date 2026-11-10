@@ -1,0 +1,378 @@
+{
+  "updated_at": "2026-11-09",
+  "tools": [
+    {
+      "name": "Clash Verge Rev",
+      "repo": "clash-verge-rev/clash-verge-rev",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "version": "v2.5.10",
+      "released": "2026-11-03",
+      "page": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.10",
+      "desc": "基于 Mihomo 内核的 Tauri 桌面客户端，界面清爽、订阅与规则组可视化，新手首选。",
+      "note": "Windows 需 WebView2；提供 x64/arm64 安装包与 dmg/deb。",
+      "downloads": {
+        "Windows": {
+          "label": "Clash.Verge_2.5.10_x64-setup.exe",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64-setup.exe"
+        },
+        "macOS": {
+          "label": "Clash.Verge_2.5.10_x64.dmg",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64.dmg"
+        },
+        "Linux": {
+          "label": "Clash.Verge_2.5.10_amd64.deb",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_amd64.deb"
+        }
+      }
+    },
+    {
+      "name": "v2rayN",
+      "repo": "2dust/v2rayN",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "version": "7.25.6",
+      "released": "2026-10-11",
+      "page": "https://github.com/2dust/v2rayN/releases/tag/7.25.6",
+      "desc": "老牌多核心桌面客户端，支持 Xray/sing-box 等多种内核，订阅管理能力最强。",
+      "note": "解压即用，绿色版。",
+      "downloads": {
+        "Windows": {
+          "label": "v2rayN-windows-64.zip",
+          "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip"
+        },
+        "macOS": {
+          "label": "v2rayN-macos-arm64.dmg",
+          "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg"
+        },
+        "Linux": {
+          "label": "v2rayN-linux-64.zip",
+          "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip"
+        }
+      }
+    },
+    {
+      "name": "Karing",
+      "repo": "KaringX/karing",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Android",
+        "iOS",
+        "Linux"
+      ],
+      "version": "v1.2.25.2802",
+      "released": "2026-09-10",
+      "page": "https://github.com/KaringX/karing/releases/tag/v1.2.25.2802",
+      "desc": "全平台通用客户端（含 iOS），界面现代、分流规则可编辑。",
+      "note": "iOS 版走 App Store。",
+      "downloads": {
+        "Windows": {
+          "label": "karing_1.2.25.2802_windows_x64.exe",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe"
+        },
+        "macOS": {
+          "label": "karing_1.2.25.2802_macos_universal.dmg",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg"
+        },
+        "Android": {
+          "label": "karing_1.2.25.2802_android_arm.apk",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk"
+        },
+        "Linux": {
+          "label": "karing_1.2.25.2802_linux_amd64.deb",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb"
+        }
+      }
+    },
+    {
+      "name": "FlClash",
+      "repo": "chen08209/FlClash",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "version": "v0.9.3",
+      "released": "2026-11-04",
+      "page": "https://github.com/chen08209/FlClash/releases/tag/v0.9.3",
+      "desc": "ClashMeta 多平台客户端，跨平台界面一致。",
+      "note": "Flutter 构建，体积略大。",
+      "downloads": {
+        "Windows": {
+          "label": "FlClash-0.9.3-windows-amd64-setup.exe",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-windows-amd64-setup.exe"
+        },
+        "macOS": {
+          "label": "FlClash-0.9.3-macos-amd64.dmg",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-macos-amd64.dmg"
+        },
+        "Linux": {
+          "label": "FlClash-0.9.3-linux-amd64.AppImage",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-linux-amd64.AppImage"
+        },
+        "Android": {
+          "label": "FlClash-0.9.3-android-arm64-v8a.apk",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-android-arm64-v8a.apk"
+        }
+      }
+    },
+    {
+      "name": "Hiddify",
+      "repo": "hiddify/hiddify-app",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Android",
+        "iOS",
+        "Linux"
+      ],
+      "version": "v5.5.5",
+      "released": "2026-11-04",
+      "page": "https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5",
+      "desc": "基于 sing-box 的自动代理客户端，自带多种模式。",
+      "note": "适合不想折腾配置的用户。",
+      "downloads": {
+        "Windows": {
+          "label": "Hiddify-Windows-Portable-x64.zip",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Windows-Portable-x64.zip"
+        },
+        "macOS": {
+          "label": "Hiddify-MacOS.dmg",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-MacOS.dmg"
+        },
+        "Android": {
+          "label": "Hiddify-Android-arm64.apk",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Android-arm64.apk"
+        },
+        "iOS": {
+          "label": "Hiddify-iOS.ipa",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-iOS.ipa"
+        },
+        "Linux": {
+          "label": "Hiddify-Linux-x64-AppImage.AppImage",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Linux-x64-AppImage.AppImage"
+        }
+      }
+    },
+    {
+      "name": "NekoRay",
+      "repo": "MatsuriDayo/nekoray",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "version": "4.0.1",
+      "released": "2024-12-12",
+      "page": "https://github.com/MatsuriDayo/nekoray/releases/tag/4.0.1",
+      "desc": "Qt 桌面客户端，支持 sing-box 与多个内核。",
+      "note": "项目更新较慢，新用户可优先 Karing。",
+      "downloads": {
+        "Windows": {
+          "label": "nekoray-4.0.1-2024-12-12-windows64.zip",
+          "url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip"
+        },
+        "Linux": {
+          "label": "nekoray-4.0.1-2024-12-12-linux64.zip",
+          "url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-linux64.zip"
+        }
+      }
+    },
+    {
+      "name": "Clash Meta for Android",
+      "repo": "MetaCubeX/ClashMetaForAndroid",
+      "platforms": [
+        "Android"
+      ],
+      "version": "v2.11.36",
+      "released": "2026-10-21",
+      "page": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36",
+      "desc": "ClashMeta 的 Android 客户端，纯净无广告。",
+      "note": "需在系统设置允许 VPN 权限。",
+      "downloads": {
+        "Android": {
+          "label": "cmfa-2.11.36-meta-arm64-v8a-release.apk",
+          "url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.36/cmfa-2.11.36-meta-arm64-v8a-release.apk"
+        }
+      }
+    },
+    {
+      "name": "v2rayNG",
+      "repo": "2dust/v2rayNG",
+      "platforms": [
+        "Android"
+      ],
+      "version": "2.3.15",
+      "released": "2026-11-01",
+      "page": "https://github.com/2dust/v2rayNG/releases/tag/2.3.15",
+      "desc": "Android 端经典客户端，支持多协议与自定义路由。",
+      "note": "F-Droid 版本持续更新。",
+      "downloads": {
+        "Android": {
+          "label": "v2rayNG_2.3.15-fdroid_arm64-v8a.apk",
+          "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_arm64-v8a.apk"
+        }
+      }
+    },
+    {
+      "name": "sing-box",
+      "repo": "SagerNet/sing-box",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "version": "v1.14.4",
+      "released": "2026-10-24",
+      "page": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.4",
+      "desc": "通用代理内核，跨平台协议齐全。",
+      "note": "进阶用户/自建使用。",
+      "downloads": {
+        "Windows": {
+          "label": "sing-box-1.14.4-windows-amd64.zip",
+          "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-windows-amd64.zip"
+        },
+        "macOS": {
+          "label": "sing-box-1.14.4-darwin-arm64.tar.gz",
+          "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz"
+        },
+        "Linux": {
+          "label": "sing-box_1.14.4_linux_amd64.deb",
+          "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box_1.14.4_linux_amd64.deb"
+        },
+        "Android": {
+          "label": "SFA-1.14.4-arm64-v8a.apk",
+          "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk"
+        }
+      }
+    },
+    {
+      "name": "Mihomo",
+      "repo": "MetaCubeX/mihomo",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "version": "v1.19.33",
+      "released": "2026-10-21",
+      "page": "https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.33",
+      "desc": "Clash Meta 内核，多数客户端的运行核心。",
+      "note": "想手动部署内核可选。",
+      "downloads": {
+        "Windows": {
+          "label": "mihomo-windows-amd64-compatible-v1.19.33.zip",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-windows-amd64-compatible-v1.19.33.zip"
+        },
+        "Linux": {
+          "label": "mihomo-linux-amd64-compatible-v1.19.33.gz",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-linux-amd64-compatible-v1.19.33.gz"
+        },
+        "Android": {
+          "label": "mihomo-android-arm64-v8-v1.19.33.gz",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-android-arm64-v8-v1.19.33.gz"
+        }
+      }
+    },
+    {
+      "name": "Shadowrocket",
+      "repo": null,
+      "platforms": [
+        "iOS"
+      ],
+      "version": "2.2.93",
+      "released": "",
+      "page": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+      "desc": "iOS 端最主流的订阅客户端，支持规则分流与脚本。",
+      "note": "$2.99 · Shadow Launch Technology Limited",
+      "downloads": {
+        "iOS": {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+        }
+      }
+    },
+    {
+      "name": "Surge 5",
+      "repo": null,
+      "platforms": [
+        "iOS"
+      ],
+      "version": "5.23.0",
+      "released": "",
+      "page": "https://apps.apple.com/us/app/surge-5/id1442620678",
+      "desc": "iOS 规则引擎强项，脚本与模块生态最完整。",
+      "note": "Free · Surge Networks Inc.",
+      "downloads": {
+        "iOS": {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/surge-5/id1442620678"
+        }
+      }
+    },
+    {
+      "name": "Loon",
+      "repo": null,
+      "platforms": [
+        "iOS"
+      ],
+      "version": "3.5.3",
+      "released": "",
+      "page": "https://apps.apple.com/us/app/loon/id1373567447",
+      "desc": "iOS 规则分流客户端，配置项细致。",
+      "note": "$7.99 · Loon Lab Limited",
+      "downloads": {
+        "iOS": {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/loon/id1373567447"
+        }
+      }
+    },
+    {
+      "name": "Stash - Rule Based Proxy",
+      "repo": null,
+      "platforms": [
+        "iOS"
+      ],
+      "version": "3.6.5",
+      "released": "",
+      "page": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349",
+      "desc": "iOS 规则分流客户端，规则集丰富。",
+      "note": "$5.99 · Stash Networks Limited",
+      "downloads": {
+        "iOS": {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349"
+        }
+      }
+    },
+    {
+      "name": "Quantumult X",
+      "repo": null,
+      "platforms": [
+        "iOS"
+      ],
+      "version": "1.8.1",
+      "released": "",
+      "page": "https://apps.apple.com/us/app/quantumult-x/id1443988620",
+      "desc": "iOS 规则分流客户端，配置项细致。",
+      "note": "$9.99 · Cross Utility Ltd",
+      "downloads": {
+        "iOS": {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/quantumult-x/id1443988620"
+        }
+      }
+    }
+  ]
+}
