@@ -1,6 +1,6 @@
 # 机场价格总表（完整版）
 
-> 数据快照：2026-11-12 05:10 · 共 19 家 · 完整详情与最新状态见主站：[https://myhaiwan.com/reviews](https://myhaiwan.com/reviews/)
+> 数据快照：2026-11-13 05:10 · 共 20 家 · 完整详情与最新状态见主站：[https://myhaiwan.com/reviews](https://myhaiwan.com/reviews/)
 
 | 机场 | 状态 | 最低价区间 | 标称速度 | 流媒体 |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | 百变小樱 | 🟢 | ¥15.67 ~ ¥168/月 | 1000Mbps | 解锁奈飞、迪士尼等国际流媒体 |
 | CyberGuard | 🟢 | ¥15.83 ~ ¥200/月 | 1000Mbps | 支持 Netflix / Disney+ / HBO / DAZN 热门平台畅享观看 |
 | BoostNet | 🟢 | ¥16.67 ~ ¥116.67/月 | 1000Mbps | Netfilx/GPT/Disney+等流媒体 |
+| 扬帆云 | 🟢 | ¥19.99 ~ ¥200/月 | 200Mbps（LV1）~ 2Gbps（LV4+）；旗舰版不限速（另标 2000Mbps） | 解锁流媒体（套餐备注标称）；独享住宅IP档支持 Claude/GPT 不封号（服务商标称） |
 | 闪狐云 | 🟢 | ¥20 ~ ¥125/月 | 1000Mbps速率，晚高峰不限速 | 解锁全球流媒体、AI工具 |
 | 酷酷云 | 🟢 | ¥20 ~ ¥160/月 | 1000Mbps | 全面支持 Netflix / Hulu / HBO / Disney+ / Dazn 等主流平台，秒开4K，畅享8K 超高清观影体验 |
 | SS-ID | 🟢 | ¥20 ~ ¥85/月 | 1000Mbps | 全球流媒体解锁，热门平台随心看 |
@@ -22,7 +23,7 @@
 | 红杏云 | 🟢 | ¥28.8 ~ ¥138.8/月 | 1000 Mbps | 解锁流媒体 |
 | 大象网络 | 🟢 | ¥35 ~ ¥500/月 | 120Mbps | 全球流媒体解锁，热门平台随心看 |
 | TAG | 🟢 | ¥61.67 ~ ¥1500/月 | 1000Mbps | 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制 |
-| wgetcloud | 🟢 | ¥119 ~ ¥139/月 | — | 全球流媒体解锁，热门平台随心看 |
+| wgetcloud | 🟢 | ¥119 ~ ¥139/月 | 200Mbps（基础）~ 500Mbps（旗舰）；SLA 专线高可用（旗舰档） | 全球流媒体解锁，热门平台随心看 |
 
 ---
 *本表由脚本自动生成，每日同步。价格与状态以 [myhaiwan.com](https://myhaiwan.com/) 实时页面为准。*

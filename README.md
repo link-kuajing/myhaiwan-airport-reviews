@@ -1,6 +1,6 @@
 # 海外机场评测与跑路预警 · myhaiwan.com
 
-> 独立观察 19 家机场的价格、线路与运行状态。**本仓是数据镜像，完整评测请访问 [myhaiwan.com](https://myhaiwan.com)。**
+> 独立观察 20 家机场的价格、线路与运行状态。**本仓是数据镜像，完整评测请访问 [myhaiwan.com](https://myhaiwan.com)。**
 
 ## 它能帮你做什么
 
@@ -34,15 +34,15 @@
 - [tools.md](tools.md) — 客户端工具清单
 - `data/` — 结构化数据（JSON）
 - `posts/` — 文章镜像全文（3 篇）
-- `reviews/` — 文章镜像全文（4 篇）
+- `reviews/` — 文章镜像全文（5 篇）
 
 ## 最新文章
 
+- [2026年闪狐云机场测评：四档全月付，20元和40元两档单价分毫不差](https://myhaiwan.com/reviews/闪狐云/) — 2026-11-13
 - [2026年自由猫机场测评：设备台数写进价目表，8元档只够一台](https://myhaiwan.com/reviews/自由猫/) — 2026-11-12
 - [2026年wgetcloud机场测评：三档只差60元，加钱买的是带宽不是流量](https://myhaiwan.com/reviews/wgetcloud/) — 2026-11-11
 - [2026年山水云机场测评：同一份流量四种卖法，单价差14倍](https://myhaiwan.com/reviews/山水云/) — 2026-11-10
 - [2026年百变小樱机场测评：官方客户端一点就连，年付单价却比月付贵两成](https://myhaiwan.com/reviews/百变小樱/) — 2026-11-09
-- [2025-2026翻墙机场跑路汇总（持续更新）](https://myhaiwan.com/posts/2026-airport-paolu/) — 2026-11-08
 
 ---
 *数据每日 05:10 自动同步自主站公开接口快照，仅供参考；购买前请以服务商官网为准。*

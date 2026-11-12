@@ -1,8 +1,8 @@
 {
   "site": "11hao",
-  "count": 19,
+  "count": 20,
   "featured": 3,
-  "plans_from_repo": 13,
+  "plans_from_repo": 14,
   "airports": [
     {
       "id": 18,
@@ -175,7 +175,7 @@
           "cycle_raw": "365天",
           "device": "5个",
           "desc": "特惠年付；500Mbps；Lv.1会员；AnyTLS+BGP专线；解锁奈飞/迪士尼",
-          "monthly": 15.0,
+          "monthly": 15.67,
           "one_time": false
         },
         {
@@ -241,7 +241,7 @@
           "cycle_raw": "365天",
           "device": "10个",
           "desc": "特惠年付；700Mbps；Lv.2会员；AnyTLS+BGP专线；解锁奈飞/迪士尼",
-          "monthly": 32.0,
+          "monthly": 32.33,
           "one_time": false
         },
         {
@@ -449,8 +449,9 @@
           "duration": "年",
           "device": "同时在线 4 个设备",
           "desc": "每月64G流量，用不完当月清零，流量发放持续一年",
-          "monthly": null,
-          "one_time": false
+          "monthly": 6.42,
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "128G/轻量套餐",
@@ -458,9 +459,10 @@
           "traffic": "128G",
           "duration": "季",
           "device": "同时在线 6 个设备",
-          "desc": "每月128G流量，用不完当月清零，流量发放持续半年",
-          "monthly": null,
-          "one_time": false
+          "desc": "每季 ¥33，每月 128G，当月清零",
+          "monthly": 11.0,
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "256G/轻量套餐",
@@ -469,8 +471,9 @@
           "duration": "季",
           "device": "同时在线 8 个设备",
           "desc": "每月256G流量，用不完当月清零，流量发放持续一季",
-          "monthly": null,
-          "one_time": false
+          "monthly": 25.0,
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "100G/月-琴",
@@ -480,7 +483,8 @@
           "device": "同时在线 3个设备",
           "desc": "",
           "monthly": 12.0,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "200G/月-棋",
@@ -490,7 +494,8 @@
           "device": "同时在线 5 个设备",
           "desc": "",
           "monthly": 20.0,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "500G/月-书",
@@ -500,7 +505,8 @@
           "device": "同时在线 8 个设备",
           "desc": "",
           "monthly": 39.0,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "999G/月-画",
@@ -510,7 +516,8 @@
           "device": "同时在线 10 个设备",
           "desc": "",
           "monthly": 69.0,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": true
         },
         {
           "name": "100G/不限时-梅兰",
@@ -529,8 +536,9 @@
           "duration": "年",
           "device": "同时在线 3个设备",
           "desc": "流量限制：365天128G不重置",
-          "monthly": null,
-          "one_time": false
+          "monthly": 3.32,
+          "one_time": false,
+          "traffic_resets_monthly": false
         },
         {
           "name": "365天-256G(福利包)",
@@ -539,14 +547,16 @@
           "duration": "年",
           "device": "同时在线 3个设备",
           "desc": "流量限制：365天256G不重置",
-          "monthly": null,
-          "one_time": false
+          "monthly": 4.99,
+          "one_time": false,
+          "traffic_resets_monthly": false
         }
       ],
       "plan_source": "shortlink",
       "plan_fetched_at": "",
       "monthly_low": 6.42,
       "monthly_high": 69.0,
+      "gate_note": "最低实付 ¥12（100G/月）；年付福利包 ¥39.9 起付，全年仅 128G 不重置（月均约 10.7G）",
       "has_unlimited": true,
       "short_url": "https://tochick.xyz/36?site=11hao",
       "site_featured": false,
@@ -556,11 +566,180 @@
       "plan_source_label": "官网当前显示"
     },
     {
+      "id": 59,
+      "name": "扬帆云",
+      "advantage": "全等级节点含 IEPL 专线；Level 1~4 分级节点；买3送1",
+      "media": "解锁流媒体（套餐备注标称）；独享住宅IP档支持 Claude/GPT 不封号（服务商标称）",
+      "speed": "200Mbps（LV1）~ 2Gbps（LV4+）；旗舰版不限速（另标 2000Mbps）",
+      "mainland_access": true,
+      "service_status": "normal",
+      "plans": [
+        {
+          "name": "LV1 套餐",
+          "price": 19.99,
+          "traffic": "100 GB/周期",
+          "duration": "月",
+          "cycle_raw": "月/季/半年/年/两年",
+          "device": "2台",
+          "desc": "200Mbps·等级一节点·全球节点+解锁流媒体·标准节点",
+          "monthly": 19.99,
+          "one_time": false,
+          "traffic_resets_monthly": true
+        },
+        {
+          "name": "LV2 套餐",
+          "price": 29.99,
+          "traffic": "200 GB/周期",
+          "duration": "月",
+          "cycle_raw": "月/季/半年/年/两年",
+          "device": "3台",
+          "desc": "等级一二节点·解锁流媒体",
+          "monthly": 29.99,
+          "one_time": false,
+          "traffic_resets_monthly": true,
+          "audit_note": "官网带宽两处标注不一致（LV2:300/500，LV3:500/1000），以官网页面为准，审核报告已记录"
+        },
+        {
+          "name": "LV3 套餐",
+          "price": 39.99,
+          "traffic": "400 GB/周期",
+          "duration": "月",
+          "cycle_raw": "月/季/半年/年/两年",
+          "device": "4台",
+          "desc": "部分IEPL专线·解锁流媒体",
+          "monthly": 39.99,
+          "one_time": false,
+          "traffic_resets_monthly": true,
+          "audit_note": "官网带宽两处标注不一致（LV2:300/500，LV3:500/1000），以官网页面为准，审核报告已记录"
+        },
+        {
+          "name": "LV4 套餐",
+          "price": 49.99,
+          "traffic": "700 GB/周期",
+          "duration": "月",
+          "cycle_raw": "月/季/半年/年/两年",
+          "device": "6台",
+          "desc": "2Gbps·全等级节点含全IEPL专线·买3送1·解锁流媒体",
+          "monthly": 49.99,
+          "one_time": false,
+          "traffic_resets_monthly": true
+        },
+        {
+          "name": "旗舰版 · 大流量",
+          "price": 88.99,
+          "traffic": "1.2 TB/周期",
+          "duration": "月",
+          "cycle_raw": "月/季/半年/年/两年",
+          "device": "8台",
+          "desc": "不限速(另标2000Mbps)·全等级节点·买3送1·解锁流媒体",
+          "monthly": 88.99,
+          "one_time": false,
+          "traffic_resets_monthly": true
+        },
+        {
+          "name": "独享节点 · 原生住宅 IP",
+          "price": 200.0,
+          "traffic": "",
+          "duration": "月",
+          "cycle_raw": "月付·半年起订",
+          "device": "2台",
+          "desc": "原生住宅IP独享不限速·Claude/GPT不封号·地区协议可定制",
+          "monthly": 200.0,
+          "one_time": false,
+          "traffic_resets_monthly": true
+        },
+        {
+          "name": "LV1 · 不限时",
+          "price": 119.0,
+          "traffic": "100 GB·用完为止",
+          "duration": "一次买断·永久有效",
+          "cycle_raw": "一次买断·永久有效",
+          "device": "2台",
+          "desc": "200Mbps·无时间限制·不续费",
+          "monthly": null,
+          "one_time": true,
+          "traffic_resets_monthly": false
+        },
+        {
+          "name": "LV2 · 不限时",
+          "price": 179.0,
+          "traffic": "200 GB·用完为止",
+          "duration": "一次买断·永久有效",
+          "cycle_raw": "一次买断·永久有效",
+          "device": "3台",
+          "desc": "300Mbps·无时间限制·不续费",
+          "monthly": null,
+          "one_time": true,
+          "traffic_resets_monthly": false
+        },
+        {
+          "name": "LV3 · 不限时",
+          "price": 239.0,
+          "traffic": "400 GB·用完为止",
+          "duration": "一次买断·永久有效",
+          "cycle_raw": "一次买断·永久有效",
+          "device": "4台",
+          "desc": "500Mbps·无时间限制·不续费",
+          "monthly": null,
+          "one_time": true,
+          "traffic_resets_monthly": false
+        },
+        {
+          "name": "LV4 · 不限时",
+          "price": 299.0,
+          "traffic": "700 GB·用完为止",
+          "duration": "一次买断·永久有效",
+          "cycle_raw": "一次买断·永久有效",
+          "device": "6台",
+          "desc": "2Gbps·无时间限制·不续费",
+          "monthly": null,
+          "one_time": true,
+          "traffic_resets_monthly": false
+        },
+        {
+          "name": "旗舰版 · 不限时",
+          "price": 533.0,
+          "traffic": "1.2 TB·用完为止",
+          "duration": "一次买断·永久有效",
+          "cycle_raw": "一次买断·永久有效",
+          "device": "8台",
+          "desc": "不限速·无时间限制·不续费",
+          "monthly": null,
+          "one_time": true,
+          "traffic_resets_monthly": false
+        },
+        {
+          "name": "私人定制·旗舰大流量（2年付起订）",
+          "price": 2135.76,
+          "traffic": "",
+          "duration": "两年",
+          "cycle_raw": "两年",
+          "device": "",
+          "desc": "定制节点另收费；独立IP每IP每月200起；限官方UniClash客户端",
+          "monthly": 88.99,
+          "one_time": false,
+          "traffic_resets_monthly": true
+        }
+      ],
+      "plan_source": "repo",
+      "plan_fetched_at": "2026-11-06T09:57:30.758Z",
+      "monthly_low": 19.99,
+      "monthly_high": 200.0,
+      "gate_note": "月付 ¥19.99 起；独享节点 ¥200/月需半年起订（实付 ¥1200）；私人定制 ¥2135.76 两年付起订（¥88.99/月）",
+      "has_unlimited": true,
+      "short_url": "https://tochick.xyz/59?site=11hao",
+      "site_featured": false,
+      "updated_at": "2026-11-11 18:47",
+      "claim_source": "服务商公开页面",
+      "claims_verified": false,
+      "plan_source_label": "官网当前显示"
+    },
+    {
       "id": 55,
       "name": "wgetcloud",
       "advantage": "专线接入",
       "media": "全球流媒体解锁，热门平台随心看",
-      "speed": "",
+      "speed": "200Mbps（基础）~ 500Mbps（旗舰）；SLA 专线高可用（旗舰档）",
       "mainland_access": true,
       "service_status": "normal",
       "plans": [
@@ -700,8 +879,8 @@
           "one_time": true
         }
       ],
-      "plan_source": "shortlink",
-      "plan_fetched_at": "",
+      "plan_source": "repo",
+      "plan_fetched_at": "2026-11-05T01:50:15Z",
       "monthly_low": 8.0,
       "monthly_high": 59.9,
       "has_unlimited": true,
@@ -710,7 +889,7 @@
       "updated_at": "2026-11-08 14:28",
       "claim_source": "服务商公开页面",
       "claims_verified": false,
-      "plan_source_label": "官网当前显示"
+      "plan_source_label": "官网当前显示（仓库同步）"
     },
     {
       "id": 15,
@@ -1302,7 +1481,8 @@
           "device": "最多 5 台设备",
           "desc": "为轻量用户量身打造；无重置，可付费提前重置 92 CNY/次；标准客服支持；最高可达 300Mbps 带宽",
           "monthly": 13.5,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": false
         },
         {
           "name": "Team计划",
@@ -1356,7 +1536,7 @@
           "cycle_raw": "半年付",
           "device": "不限制设备数量",
           "desc": "6月限时特惠双倍流量：原150G限时升级300G；直连入口+IEPL专线；支持Netflix/Disney+/HBO/DAZN及ChatGPT/Claude；最高300M速率；可选周期：半年|年度",
-          "monthly": 7.92,
+          "monthly": 15.83,
           "one_time": false
         },
         {
@@ -1829,7 +2009,8 @@
           "device": "可同时5个设备使用",
           "desc": "适合日常流量使用很少、非常轻度使用的用户；节点动态倍率，具体看首页右边公告；仅限个人使用，禁止共享；没过期请使用完流量后再续费，过期或剩余流量小于10G时续费会自动重置剩余流量为200G，否则不会重置；此套餐流量用完是续费不是买流量重置包",
           "monthly": 16.58,
-          "one_time": false
+          "one_time": false,
+          "traffic_resets_monthly": false
         },
         {
           "name": "团体套餐多人使用",
@@ -1867,5 +2048,5 @@
       "plan_source_label": "官网当前显示"
     }
   ],
-  "synced_at": "2026-11-08 14:55:08"
+  "synced_at": "2026-11-12 09:56:39"
 }
