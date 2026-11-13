@@ -101,7 +101,7 @@ excerpt: "瑶瑶领先只有两档月付套餐：9.9 元 384G、19.8 元 768G，
 - **多设备主力（手机+电脑+平板+路由器，或者两个人共用）**：19.8 元档。多花的 9.9 元买的是 3 台设备额度和 600 Mbps 标称速率，不是流量折扣——想清楚这一点再决定。
 - **想省钱想拉长周期的人**：先别。至少月付跑两个月，把晚高峰走完，再按上面三步算法核算年付折扣率，低于 35% 就不值得锁一年。省下的钱不够覆盖一次跑路的损失。
 
-转化位（本站主推，短链直达官网月付下单页）：<a href="https://tochick.xyz/18?site=11hao" rel="nofollow noopener" target="_blank">瑶瑶领先官方入口</a>。第一次买，选月付最低档，别一上来就年付。
+转化位（本站主推，短链直达官网月付下单页）：<a href="https://haiwanlink.com/18?site=11hao" rel="nofollow noopener" target="_blank">瑶瑶领先官方入口</a>。第一次买，选月付最低档，别一上来就年付。
 
 ## 常见问题
 
@@ -124,7 +124,7 @@ excerpt: "瑶瑶领先只有两档月付套餐：9.9 元 384G、19.8 元 768G，
 - [翻墙客户端下载与三步上手](/tools/)——买完不会配，从这儿开始
 
 <div class="hint">
-<p>🔗 <strong>本站主推 · 瑶瑶领先</strong>：两档月付、每 GB 约 0.026 元，第一次买从 9.9 元档起步最稳。<a href="https://tochick.xyz/18?site=11hao" rel="nofollow noopener" target="_blank">进官网看当前套餐与周期价</a>（包季/包年价格以下单页为准）。</p>
+<p>🔗 <strong>本站主推 · 瑶瑶领先</strong>：两档月付、每 GB 约 0.026 元，第一次买从 9.9 元档起步最稳。<a href="https://haiwanlink.com/18?site=11hao" rel="nofollow noopener" target="_blank">进官网看当前套餐与周期价</a>（包季/包年价格以下单页为准）。</p>
 </div>
 
 <div class="hint warning">
