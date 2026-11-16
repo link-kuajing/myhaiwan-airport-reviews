@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-16",
   "tools": [
     {
       "name": "Clash Verge Rev",
@@ -67,27 +67,27 @@
         "iOS",
         "Linux"
       ],
-      "version": "v1.2.25.2802",
-      "released": "2026-09-10",
-      "page": "https://github.com/KaringX/karing/releases/tag/v1.2.25.2802",
+      "version": "v1.2.26.2931",
+      "released": "2026-11-13",
+      "page": "https://github.com/KaringX/karing/releases/tag/v1.2.26.2931",
       "desc": "全平台通用客户端（含 iOS），界面现代、分流规则可编辑。",
       "note": "iOS 版走 App Store。",
       "downloads": {
         "Windows": {
-          "label": "karing_1.2.25.2802_windows_x64.exe",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe"
+          "label": "karing_1.2.26.2931_windows_x64.exe",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_windows_x64.exe"
         },
         "macOS": {
-          "label": "karing_1.2.25.2802_macos_universal.dmg",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg"
+          "label": "karing_1.2.26.2931_macos_universal.dmg",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_macos_universal.dmg"
         },
         "Android": {
-          "label": "karing_1.2.25.2802_android_arm.apk",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk"
+          "label": "karing_1.2.26.2931_android_arm.apk",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_android_arm.apk"
         },
         "Linux": {
-          "label": "karing_1.2.25.2802_linux_amd64.deb",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb"
+          "label": "karing_1.2.26.2931_linux_amd64.deb",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_linux_amd64.deb"
         }
       }
     },
@@ -192,15 +192,15 @@
       "platforms": [
         "Android"
       ],
-      "version": "v2.11.36",
-      "released": "2026-10-21",
-      "page": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36",
+      "version": "v2.11.37",
+      "released": "2026-11-11",
+      "page": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.37",
       "desc": "ClashMeta 的 Android 客户端，纯净无广告。",
       "note": "需在系统设置允许 VPN 权限。",
       "downloads": {
         "Android": {
-          "label": "cmfa-2.11.36-meta-arm64-v8a-release.apk",
-          "url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.36/cmfa-2.11.36-meta-arm64-v8a-release.apk"
+          "label": "cmfa-2.11.37-meta-arm64-v8a-release.apk",
+          "url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.37/cmfa-2.11.37-meta-arm64-v8a-release.apk"
         }
       }
     },
@@ -264,23 +264,23 @@
         "Linux",
         "Android"
       ],
-      "version": "v1.19.33",
-      "released": "2026-10-21",
-      "page": "https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.33",
+      "version": "v1.19.34",
+      "released": "2026-11-11",
+      "page": "https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.34",
       "desc": "Clash Meta 内核，多数客户端的运行核心。",
       "note": "想手动部署内核可选。",
       "downloads": {
         "Windows": {
-          "label": "mihomo-windows-amd64-compatible-v1.19.33.zip",
-          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-windows-amd64-compatible-v1.19.33.zip"
+          "label": "mihomo-windows-amd64-compatible-v1.19.34.zip",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.34/mihomo-windows-amd64-compatible-v1.19.34.zip"
         },
         "Linux": {
-          "label": "mihomo-linux-amd64-compatible-v1.19.33.gz",
-          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-linux-amd64-compatible-v1.19.33.gz"
+          "label": "mihomo-linux-amd64-compatible-v1.19.34.gz",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.34/mihomo-linux-amd64-compatible-v1.19.34.gz"
         },
         "Android": {
-          "label": "mihomo-android-arm64-v8-v1.19.33.gz",
-          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-android-arm64-v8-v1.19.33.gz"
+          "label": "mihomo-android-arm64-v8-v1.19.34.gz",
+          "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.34/mihomo-android-arm64-v8-v1.19.34.gz"
         }
       }
     },
@@ -344,7 +344,7 @@
       "platforms": [
         "iOS"
       ],
-      "version": "3.6.5",
+      "version": "5.0.0",
       "released": "",
       "page": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349",
       "desc": "iOS 规则分流客户端，规则集丰富。",
