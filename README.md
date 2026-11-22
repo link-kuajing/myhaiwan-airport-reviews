@@ -34,15 +34,15 @@
 - [tools.md](tools.md) — 客户端工具清单
 - `data/` — 结构化数据（JSON）
 - `posts/` — 文章镜像全文（3 篇）
-- `reviews/` — 文章镜像全文（12 篇）
+- `reviews/` — 文章镜像全文（13 篇）
 
 ## 最新文章
 
+- [2026年CyberGuard机场测评：双倍流量把单价压到0.042元/GB，促销牌子还写着「6月」](https://myhaiwan.com/reviews/CyberGuard/) — 2026-11-23
 - [2026年TAG机场测评：折合月价13.5元的Special档，每GB反而贵出三倍](https://myhaiwan.com/reviews/TAG/) — 2026-11-22
 - [2026年秒秒云机场测评：叫「特惠套餐」的那档单价最贵，9元档才是全场最低](https://myhaiwan.com/reviews/秒秒云/) — 2026-11-21
 - [2026年Now加速机场测评：单价最低那档只给2台设备，150元档与25元档单价一分不差](https://myhaiwan.com/reviews/Now加速/) — 2026-11-20
 - [Nexitally奶昔机场跑路了吗？2026年11月状态核查与套餐结构分析](https://myhaiwan.com/reviews/Nexitally/) — 2026-11-19
-- [2026年红杏云机场测评：不限时包单价贵四成，938元顶档只给20台设备](https://myhaiwan.com/reviews/红杏云/) — 2026-11-16
 
 ---
 *数据每日 05:10 自动同步自主站公开接口快照，仅供参考；购买前请以服务商官网为准。*
