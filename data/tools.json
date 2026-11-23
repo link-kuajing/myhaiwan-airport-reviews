@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-23",
   "tools": [
     {
       "name": "Clash Verge Rev",
@@ -67,27 +67,27 @@
         "iOS",
         "Linux"
       ],
-      "version": "v1.2.26.2931",
-      "released": "2026-11-13",
-      "page": "https://github.com/KaringX/karing/releases/tag/v1.2.26.2931",
+      "version": "v1.2.26.2934",
+      "released": "2026-11-19",
+      "page": "https://github.com/KaringX/karing/releases/tag/v1.2.26.2934",
       "desc": "全平台通用客户端（含 iOS），界面现代、分流规则可编辑。",
       "note": "iOS 版走 App Store。",
       "downloads": {
         "Windows": {
-          "label": "karing_1.2.26.2931_windows_x64.exe",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_windows_x64.exe"
+          "label": "karing_1.2.26.2934_windows_x64.exe",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2934/karing_1.2.26.2934_windows_x64.exe"
         },
         "macOS": {
-          "label": "karing_1.2.26.2931_macos_universal.dmg",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_macos_universal.dmg"
+          "label": "karing_1.2.26.2934_macos_universal.dmg",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2934/karing_1.2.26.2934_macos_universal.dmg"
         },
         "Android": {
-          "label": "karing_1.2.26.2931_android_arm.apk",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_android_arm.apk"
+          "label": "karing_1.2.26.2934_android_arm.apk",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2934/karing_1.2.26.2934_android_arm.apk"
         },
         "Linux": {
-          "label": "karing_1.2.26.2931_linux_amd64.deb",
-          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2931/karing_1.2.26.2931_linux_amd64.deb"
+          "label": "karing_1.2.26.2934_linux_amd64.deb",
+          "url": "https://github.com/KaringX/karing/releases/download/v1.2.26.2934/karing_1.2.26.2934_linux_amd64.deb"
         }
       }
     },
@@ -100,27 +100,27 @@
         "Linux",
         "Android"
       ],
-      "version": "v0.9.3",
-      "released": "2026-11-04",
-      "page": "https://github.com/chen08209/FlClash/releases/tag/v0.9.3",
+      "version": "v0.9.4",
+      "released": "2026-11-19",
+      "page": "https://github.com/chen08209/FlClash/releases/tag/v0.9.4",
       "desc": "ClashMeta 多平台客户端，跨平台界面一致。",
       "note": "Flutter 构建，体积略大。",
       "downloads": {
         "Windows": {
-          "label": "FlClash-0.9.3-windows-amd64-setup.exe",
-          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-windows-amd64-setup.exe"
+          "label": "FlClash-0.9.4-windows-amd64-setup.exe",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-amd64-setup.exe"
         },
         "macOS": {
-          "label": "FlClash-0.9.3-macos-amd64.dmg",
-          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-macos-amd64.dmg"
+          "label": "FlClash-0.9.4-macos-amd64.dmg",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-macos-amd64.dmg"
         },
         "Linux": {
-          "label": "FlClash-0.9.3-linux-amd64.AppImage",
-          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-linux-amd64.AppImage"
+          "label": "FlClash-0.9.4-linux-amd64.AppImage",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-linux-amd64.AppImage"
         },
         "Android": {
-          "label": "FlClash-0.9.3-android-arm64-v8a.apk",
-          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-android-arm64-v8a.apk"
+          "label": "FlClash-0.9.4-android-amd64.apk",
+          "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-android-amd64.apk"
         }
       }
     },
@@ -134,31 +134,31 @@
         "iOS",
         "Linux"
       ],
-      "version": "v5.5.5",
-      "released": "2026-11-04",
-      "page": "https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5",
+      "version": "v5.9.15",
+      "released": "2026-11-19",
+      "page": "https://github.com/hiddify/hiddify-app/releases/tag/v5.9.15",
       "desc": "基于 sing-box 的自动代理客户端，自带多种模式。",
       "note": "适合不想折腾配置的用户。",
       "downloads": {
         "Windows": {
           "label": "Hiddify-Windows-Portable-x64.zip",
-          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Windows-Portable-x64.zip"
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.9.15/Hiddify-Windows-Portable-x64.zip"
         },
         "macOS": {
           "label": "Hiddify-MacOS.dmg",
-          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-MacOS.dmg"
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.9.15/Hiddify-MacOS.dmg"
         },
         "Android": {
           "label": "Hiddify-Android-arm64.apk",
-          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Android-arm64.apk"
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.9.15/Hiddify-Android-arm64.apk"
         },
         "iOS": {
           "label": "Hiddify-iOS.ipa",
-          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-iOS.ipa"
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.9.15/Hiddify-iOS.ipa"
         },
         "Linux": {
-          "label": "Hiddify-Linux-x64-AppImage.AppImage",
-          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.5.5/Hiddify-Linux-x64-AppImage.AppImage"
+          "label": "Hiddify-Debian-x64.deb",
+          "url": "https://github.com/hiddify/hiddify-app/releases/download/v5.9.15/Hiddify-Debian-x64.deb"
         }
       }
     },
@@ -303,20 +303,20 @@
       }
     },
     {
-      "name": "Surge 5",
+      "name": "Surge 6",
       "repo": null,
       "platforms": [
         "iOS"
       ],
-      "version": "5.23.0",
+      "version": "6.0.1",
       "released": "",
-      "page": "https://apps.apple.com/us/app/surge-5/id1442620678",
+      "page": "https://apps.apple.com/us/app/surge-6/id1442620678",
       "desc": "iOS 规则引擎强项，脚本与模块生态最完整。",
       "note": "Free · Surge Networks Inc.",
       "downloads": {
         "iOS": {
           "label": "App Store",
-          "url": "https://apps.apple.com/us/app/surge-5/id1442620678"
+          "url": "https://apps.apple.com/us/app/surge-6/id1442620678"
         }
       }
     },
