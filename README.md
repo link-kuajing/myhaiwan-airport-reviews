@@ -34,15 +34,15 @@
 - [tools.md](tools.md) — 客户端工具清单
 - `data/` — 结构化数据（JSON）
 - `posts/` — 文章镜像全文（3 篇）
-- `reviews/` — 文章镜像全文（14 篇）
+- `reviews/` — 文章镜像全文（15 篇）
 
 ## 最新文章
 
+- [2026年BoostNet机场测评：用超流量买50元重置包，不如加30元升一档](https://myhaiwan.com/reviews/BoostNet/) — 2026-11-25
 - [2026年大象网络机场测评：35元档单价反而最贵，年付高级不如月付旗舰](https://myhaiwan.com/reviews/大象网络/) — 2026-11-24
 - [2026年CyberGuard机场测评：双倍流量把单价压到0.042元/GB，促销牌子还写着「6月」](https://myhaiwan.com/reviews/CyberGuard/) — 2026-11-23
 - [2026年TAG机场测评：折合月价13.5元的Special档，每GB反而贵出三倍](https://myhaiwan.com/reviews/TAG/) — 2026-11-22
 - [2026年秒秒云机场测评：叫「特惠套餐」的那档单价最贵，9元档才是全场最低](https://myhaiwan.com/reviews/秒秒云/) — 2026-11-21
-- [2026年Now加速机场测评：单价最低那档只给2台设备，150元档与25元档单价一分不差](https://myhaiwan.com/reviews/Now加速/) — 2026-11-20
 
 ---
 *数据每日 05:10 自动同步自主站公开接口快照，仅供参考；购买前请以服务商官网为准。*
