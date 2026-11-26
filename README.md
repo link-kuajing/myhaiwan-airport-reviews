@@ -34,15 +34,15 @@
 - [tools.md](tools.md) — 客户端工具清单
 - `data/` — 结构化数据（JSON）
 - `posts/` — 文章镜像全文（3 篇）
-- `reviews/` — 文章镜像全文（16 篇）
+- `reviews/` — 文章镜像全文（17 篇）
 
 ## 最新文章
 
+- [2026年极速Cloud机场测评：五档月付单价全是 0.030 元/GB，年付一分钱折扣也没有](https://myhaiwan.com/reviews/极速Cloud/) — 2026-11-27
 - [2026年一枝红杏机场测评：折合月价 8.25 元排第六低，起付 99 元排第四高](https://myhaiwan.com/reviews/一枝红杏/) — 2026-11-26
 - [2026年BoostNet机场测评：用超流量买50元重置包，不如加30元升一档](https://myhaiwan.com/reviews/BoostNet/) — 2026-11-25
 - [2026年大象网络机场测评：35元档单价反而最贵，年付高级不如月付旗舰](https://myhaiwan.com/reviews/大象网络/) — 2026-11-24
 - [2026年CyberGuard机场测评：双倍流量把单价压到0.042元/GB，促销牌子还写着「6月」](https://myhaiwan.com/reviews/CyberGuard/) — 2026-11-23
-- [2026年TAG机场测评：折合月价13.5元的Special档，每GB反而贵出三倍](https://myhaiwan.com/reviews/TAG/) — 2026-11-22
 
 ---
 *数据每日 05:10 自动同步自主站公开接口快照，仅供参考；购买前请以服务商官网为准。*
